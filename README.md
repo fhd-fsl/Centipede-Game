@@ -17,8 +17,8 @@ My first ever programming project! A classic-style Centipede arcade game built u
 
 ## 🛠️ Getting Started
 ### Requirements
-C++17 compatible compiler (e.g., g++)
-SFML 2.6.2
+- C++17 compatible compiler (e.g., g++)
+- SFML 2.6.2
 
 ### How to Run
 1. Clone the repository  
