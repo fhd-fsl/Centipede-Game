@@ -13,7 +13,7 @@ My first ever programming project! A classic-style Centipede arcade game built u
 - Score tracking and game over conditions
 
 ## 📸 Screenshots
-![Gameplay](images/Level_3.png)
+![Gameplay](images/Level_1.png)
 
 ## 🛠️ Getting Started
 ### Requirements
