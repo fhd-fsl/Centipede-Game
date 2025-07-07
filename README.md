@@ -46,3 +46,16 @@ My first ever programming project! A classic-style Centipede arcade game built u
   ```bash
   centipede.exe
   ```
+
+## 🕹️ Controls
+
+- Arrow keys to move
+- Spacebar to shoot
+
+## 🎮 Game
+- The centipede descends down the screen by bouncing off of the walls or mushrooms
+- Destroying a centipede segment creates a mushroom in that place
+- Centipede segments killed within the player area will become poison mushrooms
+- The game keeps going until the player dies
+- The player can die by getting hit by a centipede segment or hitting a poison mushroom
+- If a centipede segment reaches the player area, it will keep moving within it
