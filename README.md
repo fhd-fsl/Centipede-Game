@@ -14,6 +14,9 @@ My first ever programming project! A classic-style Centipede arcade game built u
 
 ## 📸 Screenshots
 ![Gameplay](images/Level_1.png)
+![Gameplay](images/Level_2.png)
+![Gameplay](images/Level_3.png)
+![Gameplay](images/You_died.png)
 
 ## 🛠️ Getting Started
 ### Requirements
